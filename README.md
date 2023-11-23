@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Soobin%20Park&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Soobin%20Park&fontSize50&animation=twinkling)
 <h3 align="center">Hi 👋, I'm Soobin Park !</h3>
 <p align="center">I'm a Master's student in Artificial Intelligence from Hanyang University.</p>
 
