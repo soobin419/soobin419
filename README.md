@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Soobin%20Park&fontSize50&animation=twinkling)
-<h3 align="center">Hi 👋, I'm Soobin Park !</h3>
+<h3 align="center">Hi there 👋 </h3>
 <p align="center">I'm a Master's student in Artificial Intelligence from Hanyang University.</p>
 
 
