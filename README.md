@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Soobin%20Park&fontSize50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Soobin's%20Github&fontSize50&animation=twinkling)
 <h3 align="center">Hi there 👋 </h3>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
