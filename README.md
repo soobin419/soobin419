@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Soobin's%20Github&fontSize50&animation=twinkling)
-<h3 align="center">Hi there 👋 </h3>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">👋 Hi there 👋 </h3>
+<p align="center"> 
+I'm Soobin Park. 🌱 <br>
+I want to be a person who spreads love to the world. 💌💝
+</p>
+<h3 align="center">💻 Tech Stack 💻</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -14,3 +17,5 @@
   <br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=Flat-square&logo=android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=Flat-square&logo=adobe%20illustrator&logoColor=white"/></a>&nbsp 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer"/>
